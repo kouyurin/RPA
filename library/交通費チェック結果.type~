@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<object class="kapow.robot.common.domain.Type" serializationversion="0">
+  <prologue>
+    <saved-by-versions>
+      <version>10.3.0.2</version>
+    </saved-by-versions>
+  </prologue>
+  <property name="attributes" class="kapow.robot.common.domain.Attributes"/>
+</object>
